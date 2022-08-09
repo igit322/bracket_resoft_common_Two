@@ -6,5 +6,3 @@
 4. Toggle animation (제이쿼리로 구현)
 5. background fixed
 6. 캐러셀 fade-in 효과, 버튼 연결 (순수 자바스크립트로 구현)
-
-(팀프로젝트 162커밋 예전 버전 기록용으로 쓰는 저장소임)
